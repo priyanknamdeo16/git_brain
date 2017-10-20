@@ -1,3 +1,4 @@
 function a() {
-    alert('hello');
+    alert('hello');  
+    update
 }
